@@ -137,8 +137,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a786ce221fe463e5aa45b800238530718"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_a_c_p_p___slot.html#a786ce221fe463e5aa45b800238530718">UseAutoSkill</a> (<a class="el" href="struct_f_auto_skill.html">FAutoSkill</a> AutoSkill)</td></tr>
 <tr class="separator:a786ce221fe463e5aa45b800238530718"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac3604808a982f42a3795bdd2de37e57f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_a_c_p_p___slot.html#ac3604808a982f42a3795bdd2de37e57f">SetDefaultSlotDataUsingCharacter</a> (<a class="el" href="struct_f_l_s_character.html">FLSCharacter</a> Character)</td></tr>
+<tr class="memdesc:ac3604808a982f42a3795bdd2de37e57f"><td class="mdescLeft">&#160;</td><td class="mdescRight">캐릭터 구조체(FLSCharacter)를 이용하여 슬롯에 데이터를 넣어줌.  <a href="#ac3604808a982f42a3795bdd2de37e57f">More...</a><br /></td></tr>
 <tr class="separator:ac3604808a982f42a3795bdd2de37e57f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a86a9e3456701f096f9edf94bae100d0a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_f_l_s_character.html">FLSCharacter</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_a_c_p_p___slot.html#a86a9e3456701f096f9edf94bae100d0a">GetCharacterUsingSlotData</a> (<a class="el" href="struct_f_l_s_character.html">FLSCharacter</a> Character)</td></tr>
+<tr class="memdesc:a86a9e3456701f096f9edf94bae100d0a"><td class="mdescLeft">&#160;</td><td class="mdescRight">슬롯의 데이터를 이용하여 캐릭터 구조체(FLSCharacter)를 만듦.  <a href="#a86a9e3456701f096f9edf94bae100d0a">More...</a><br /></td></tr>
 <tr class="separator:a86a9e3456701f096f9edf94bae100d0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a001f17c8ec1b784028ef0780b43facdf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_a_c_p_p___slot.html#a001f17c8ec1b784028ef0780b43facdf">SetHp</a> (float NewHp)</td></tr>
 <tr class="separator:a001f17c8ec1b784028ef0780b43facdf"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -284,6 +286,7 @@ Private Member Functions</h2></td></tr>
 <tr class="memitem:a6d07545804352f55d50c56faef9b32d4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_a_c_p_p___slot.html#a6d07545804352f55d50c56faef9b32d4">ACPP_Slot</a> ()</td></tr>
 <tr class="separator:a6d07545804352f55d50c56faef9b32d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a32af18e101066db9d0ecf1350ba4b52f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_a_c_p_p___slot.html#a32af18e101066db9d0ecf1350ba4b52f">BeginPlay</a> () override</td></tr>
+<tr class="memdesc:a32af18e101066db9d0ecf1350ba4b52f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Actor 클래스의 BeginPlay 오버라이드.  <a href="#a32af18e101066db9d0ecf1350ba4b52f">More...</a><br /></td></tr>
 <tr class="separator:a32af18e101066db9d0ecf1350ba4b52f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae796b189377302c48f5631b6d6f6bbde"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_a_c_p_p___slot.html#ae796b189377302c48f5631b6d6f6bbde">Tick</a> (float DeltaTime) override</td></tr>
 <tr class="separator:ae796b189377302c48f5631b6d6f6bbde"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -374,7 +377,7 @@ Private Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>전투시에 사용되는 슬롯. </p>
-<p>PaperSpriteActor를 상속받은 클래스. BP_Slot 이라는 이름으로 블루프린트 버전도 존재. 다양한 기능을 포함하고 있어서 수정에 주의를 요망. </p>
+<p>PaperSpriteActor를 상속받음. BP_Slot 이라는 이름으로 블루프린트 버전도 존재. 다양한 기능을 포함하고 있어서 수정에 주의를 요망. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a6d07545804352f55d50c56faef9b32d4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6d07545804352f55d50c56faef9b32d4">&sect;&nbsp;</a></span>ACPP_Slot()</h2>
@@ -535,6 +538,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Actor 클래스의 BeginPlay 오버라이드. </p>
+<p>이 함수가 호출되는 시점에는 슬롯의 Characher가 비어있는 상태(SetDefaultSlotDataUsingCharacter가 호출되기 전)이므로 관련 초기화를 수행해서는 안 됨. 차라리 저 함수 안에 넣으시길 </p><dl class="section see"><dt>See also</dt><dd><a class="el" href="class_a_c_p_p___slot.html#ac3604808a982f42a3795bdd2de37e57f" title="캐릭터 구조체(FLSCharacter)를 이용하여 슬롯에 데이터를 넣어줌. ">SetDefaultSlotDataUsingCharacter</a> </dd></dl>
+
 </div>
 </div>
 <a id="ae19e1c4d076be0d1cefa2492f440ffb1"></a>
@@ -662,6 +668,15 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>슬롯의 데이터를 이용하여 캐릭터 구조체(FLSCharacter)를 만듦. </p>
+<p>전투가 끝난 후에도 유지되어야 할 데이터(Hp, Energy 등)를 입력 캐릭터에 적용하여 반환 </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">Character</td><td>전투로 바뀐 데이터를 적용할 캐릭터 구조체 </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>전투로 바뀐 데이터가 적용된 캐릭터 구조체 </dd></dl>
 
 </div>
 </div>
@@ -1389,6 +1404,15 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>캐릭터 구조체(FLSCharacter)를 이용하여 슬롯에 데이터를 넣어줌. </p>
+<p>캐릭터 구조체의 데이터 중에서 전투에 필요한 것들만 슬롯에 따로 저장함. 전투가 끝난 후에도 유지되어야 할 데이터는 GetCharacterUsingSlotData의 리턴값인 FLSCharacter로 받아올 수 있음. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">Character</td><td>슬롯에 입력할 캐릭터 구조체(C++). </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="class_a_c_p_p___slot.html#a86a9e3456701f096f9edf94bae100d0a" title="슬롯의 데이터를 이용하여 캐릭터 구조체(FLSCharacter)를 만듦. ">GetCharacterUsingSlotData</a> </dd></dl>
 
 </div>
 </div>
