@@ -2,7 +2,7 @@ var searchData=
 [
   ['weaponkind',['WeaponKind',['../class_u_m___unit_state.html#a16796164ae7c517b9177c3545a550343',1,'UM_UnitState']]],
   ['weaponrequirement',['WeaponRequirement',['../class_a_c_p_p___slot.html#a1214e7063864e65bc116353c091e9005',1,'ACPP_Slot']]],
-  ['weaponrequirementtable',['WeaponRequirementTable',['../class_a_c_p_p___attack_actor.html#a4642d889aac6a4fa90550816c9f01e93',1,'ACPP_AttackActor::WeaponRequirementTable()'],['../class_a_c_p_p___slot.html#a06b2741abd9bd6867cc0acc45019c6ae',1,'ACPP_Slot::WeaponRequirementTable()']]],
+  ['weaponrequirementtable',['WeaponRequirementTable',['../class_a_c_p_p___attack_actor.html#a4642d889aac6a4fa90550816c9f01e93',1,'ACPP_AttackActor::WeaponRequirementTable()'],['../class_a_c_p_p___slot.html#a06b2741abd9bd6867cc0acc45019c6ae',1,'ACPP_Slot::WeaponRequirementTable()'],['../class_u_c_p_p___data_table_manager.html#ac031bcd9c404ba70fb8e5b8d1c814cb3',1,'UCPP_DataTableManager::WeaponRequirementTable()']]],
   ['weaponskillname',['WeaponSkillName',['../struct_f_weapon.html#af1e7d5197b06e31bee15a9efce064db1',1,'FWeapon']]],
   ['weaponslotsprite',['WeaponSlotSprite',['../class_a_c_p_p___slot.html#a9f12261f48b17d735a7ba0fb1853ea9e',1,'ACPP_Slot']]],
   ['weaponslotspritelist',['WeaponSlotSpriteList',['../class_a_c_p_p___slot.html#ac76ed28c42483eadd5ae2ee86e4507aa',1,'ACPP_Slot']]],

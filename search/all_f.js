@@ -9,7 +9,7 @@ var searchData=
   ['reloadtimerdel',['ReloadTimerDel',['../class_a_c_p_p___slot.html#a5c2ae106221ec00c56dc5cfedd6d08f1',1,'ACPP_Slot']]],
   ['reloadtimerhandle',['ReloadTimerHandle',['../class_a_c_p_p___slot.html#a120b0ad89a50a0e5b13d60a6603bfbbe',1,'ACPP_Slot']]],
   ['remnentautoskillgauge',['RemnentAutoSkillGauge',['../class_a_c_p_p___slot.html#a397ad002e35dcbdd5dfc791693fa0840',1,'ACPP_Slot']]],
-  ['remove',['Remove',['../class_u_m___attack_actor_group.html#a70b481fa2846197cf6880d865a4fdf4c',1,'UM_AttackActorGroup']]],
+  ['remove',['Remove',['../class_u_m___attack_actor_group.html#a70b481fa2846197cf6880d865a4fdf4c',1,'UM_AttackActorGroup::Remove()'],['../class_u_m___hajin_attack_actor_group.html#abb64459833b0718b9b879bea15480c0a',1,'UM_HajinAttackActorGroup::Remove()']]],
   ['removebuffactor',['RemoveBuffActor',['../class_a_c_p_p___buff_actor.html#a11c0377de464b39951dffb45949c51c8',1,'ACPP_BuffActor']]],
   ['research',['Research',['../struct_f_research_slot.html#a139ae053c68d692026387b7c680bb05b',1,'FResearchSlot']]],
   ['researchimage',['ResearchImage',['../class_u_m___research.html#a7bd736c94e655760d64baa5dfca596e5',1,'UM_Research::ResearchImage()'],['../struct_f_research.html#a3a1ef3afad4b4e3ecead0f3bf8731494',1,'FResearch::ResearchImage()']]],

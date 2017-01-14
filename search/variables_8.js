@@ -9,10 +9,12 @@ var searchData=
   ['isfixedvalue',['IsFixedValue',['../struct_f_condition_set.html#acb64bfea11c76d5c9fd93f431ded9c9b',1,'FConditionSet']]],
   ['isflipanimationplaying',['IsFlipAnimationPlaying',['../class_u_c_p_p___game_instance.html#a48038bb929b3154ace2968d96e2740c0',1,'UCPP_GameInstance']]],
   ['isfront',['IsFront',['../class_a_c_p_p___slot.html#a6f1763e5810434dec4ec9b3673115872',1,'ACPP_Slot']]],
-  ['ismainactor',['IsMainActor',['../class_a_c_p_p___attack_actor.html#a2e78580e5dbb8193e3b599b6de1578a6',1,'ACPP_AttackActor']]],
+  ['ismainactor',['IsMainActor',['../class_a_c_p_p___attack_actor.html#a2e78580e5dbb8193e3b599b6de1578a6',1,'ACPP_AttackActor::IsMainActor()'],['../class_a_c_p_p___hajin_attack_actor.html#a66708c57e5614efa825f1e54cef0745f',1,'ACPP_HajinAttackActor::IsMainActor()']]],
   ['ismainweapon',['IsMainWeapon',['../class_a_c_p_p___slot.html#acaa37beba9605bced0568e955b490e37',1,'ACPP_Slot::IsMainWeapon()'],['../class_u_m___unit_state.html#a22fbd8cbaf98848fe5e9e5c29d282506',1,'UM_UnitState::IsMainWeapon()']]],
   ['ismoving',['IsMoving',['../class_a_c_p_p___slot.html#a9d5a13d253d0e37b778c5da90781b214',1,'ACPP_Slot']]],
   ['isparent',['IsParent',['../struct_f_research_tree_node.html#a7cb1e1365c3b3b71eadc3b734d50d926',1,'FResearchTreeNode']]],
+  ['isprojectile',['IsProjectile',['../class_a_c_p_p___hajin_attack_actor.html#a19548c00c668dd07f19063121bc9d39e',1,'ACPP_HajinAttackActor::IsProjectile()'],['../struct_f_weapon_requirement.html#a3de3ee743407b2b4d1c08aa7432ea95b',1,'FWeaponRequirement::IsProjectile()']]],
+  ['isremovable',['IsRemovable',['../struct_f_buff_skill.html#aff1beb0d1f59030e6044fedd364f2a09',1,'FBuffSkill']]],
   ['isusingskill',['IsUsingSkill',['../class_a_c_p_p___slot.html#a2f574cca04c40340e6c00ab250840561',1,'ACPP_Slot']]],
   ['itemimage',['ItemImage',['../struct_f_armor.html#a4d00d2d547c28f17ceb06455daf5986c',1,'FArmor::ItemImage()'],['../struct_f_gloves.html#a5e0f9c23237cbdbbeb8d578774e42d74',1,'FGloves::ItemImage()'],['../struct_f_weapon.html#ab91f9d54425494f78eaf858b3687aa13',1,'FWeapon::ItemImage()']]]
 ];

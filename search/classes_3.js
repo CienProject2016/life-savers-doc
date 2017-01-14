@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['ucpp_5fattackactormanager',['UCPP_AttackActorManager',['../class_u_c_p_p___attack_actor_manager.html',1,'']]],
+  ['ucpp_5fdatatablemanager',['UCPP_DataTableManager',['../class_u_c_p_p___data_table_manager.html',1,'']]],
   ['ucpp_5fgameinstance',['UCPP_GameInstance',['../class_u_c_p_p___game_instance.html',1,'']]],
   ['ucpp_5fsavegame',['UCPP_SaveGame',['../class_u_c_p_p___save_game.html',1,'']]],
   ['ucppfl_5faimanager',['UCPPFL_AiManager',['../class_u_c_p_p_f_l___ai_manager.html',1,'']]],
@@ -18,11 +20,13 @@ var searchData=
   ['ucppfl_5ffieldstructlibrary',['UCPPFL_FieldStructLibrary',['../class_u_c_p_p_f_l___field_struct_library.html',1,'']]],
   ['ucppfl_5fparticlemanager',['UCPPFL_ParticleManager',['../class_u_c_p_p_f_l___particle_manager.html',1,'']]],
   ['ucppfl_5fresearchstructlibrary',['UCPPFL_ResearchStructLibrary',['../class_u_c_p_p_f_l___research_struct_library.html',1,'']]],
+  ['ucppfl_5fskilleffectprocessmanager',['UCPPFL_SkillEffectProcessManager',['../class_u_c_p_p_f_l___skill_effect_process_manager.html',1,'']]],
   ['ucppfl_5fskillmanager',['UCPPFL_SkillManager',['../class_u_c_p_p_f_l___skill_manager.html',1,'']]],
   ['ucppfl_5fskillstructlibrary',['UCPPFL_SkillStructLibrary',['../class_u_c_p_p_f_l___skill_struct_library.html',1,'']]],
   ['ucppfl_5fsoundmanager',['UCPPFL_SoundManager',['../class_u_c_p_p_f_l___sound_manager.html',1,'']]],
   ['ucppfl_5fstorystructlibrary',['UCPPFL_StoryStructLibrary',['../class_u_c_p_p_f_l___story_struct_library.html',1,'']]],
   ['um_5fattackactorgroup',['UM_AttackActorGroup',['../class_u_m___attack_actor_group.html',1,'']]],
+  ['um_5fhajinattackactorgroup',['UM_HajinAttackActorGroup',['../class_u_m___hajin_attack_actor_group.html',1,'']]],
   ['um_5fresearch',['UM_Research',['../class_u_m___research.html',1,'']]],
   ['um_5fresearchslot',['UM_ResearchSlot',['../class_u_m___research_slot.html',1,'']]],
   ['um_5funitstate',['UM_UnitState',['../class_u_m___unit_state.html',1,'']]]

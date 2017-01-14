@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>LifeSavers: LifeSavers/Source/LifeSavers/Battle/CPPFL_SkillEffectProcessManager.h 소스 파일</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">LifeSavers
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- 다음에 의해 생성됨 :  Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'검색');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','검색');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div id="nav-path" class="navpath">
+  <ul>
+<li class="navelem"><a class="el" href="dir_d04bfff943bcdb03284e754fb71b2643.html">LifeSavers</a></li><li class="navelem"><a class="el" href="dir_d13de39d0c8888055ceee2f3186ba969.html">Source</a></li><li class="navelem"><a class="el" href="dir_5d4a5de69ec76a17cb570429d98a76f7.html">LifeSavers</a></li><li class="navelem"><a class="el" href="dir_d1a8d4a6b485bb916c17eecb0b711c58.html">Battle</a></li>  </ul>
+</div>
+</div><!-- top -->
+<div class="header">
+  <div class="headertitle">
+<div class="title">CPPFL_SkillEffectProcessManager.h</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="_c_p_p_f_l___skill_effect_process_manager_8h.html">이 파일의 문서화 페이지로 가기</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">// Fill out your copyright notice in the Description page of Project Settings.</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;</div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#pragma once</span></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="_c_p_p_f_l___skill_struct_library_8h.html">Battle/CPPFL_SkillStructLibrary.h</a>&quot;</span></div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &quot;Kismet/BlueprintFunctionLibrary.h&quot;</span></div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#include &quot;CPPFL_SkillEffectProcessManager.generated.h&quot;</span></div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;</div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="keyword">class </span><a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>; </div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;</div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;UCLASS()</div><div class="line"><a name="l00016"></a><span class="lineno"><a class="line" href="class_u_c_p_p_f_l___skill_effect_process_manager.html">   16</a></span>&#160;class LIFESAVERS_API <a class="code" href="class_u_c_p_p_f_l___skill_effect_process_manager.html">UCPPFL_SkillEffectProcessManager</a> : public UBlueprintFunctionLibrary</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;{</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    GENERATED_BODY()</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    </div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="keyword">private</span>:</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> ProcessAddBuff(<a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>* TargetSlot, <a class="code" href="struct_f_skill_effect.html">FSkillEffect</a> SkillEffect);</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> ProcessAttack(<a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>* FromSlot, <a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>* TargetSlot, <a class="code" href="struct_f_skill_effect.html">FSkillEffect</a> SkillEffect, <a class="code" href="_c_p_p_f_l___equipment_struct_library_8h.html#a7a81d964fc1df299b0d7bda78d637f0b">EAtkType</a> AtkType);</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> ProcessShieldHeal(<a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>* TargetSlot, <a class="code" href="struct_f_skill_effect.html">FSkillEffect</a> SkillEffect);</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> ProcessHpHeal(<a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>* TargetSlot, <a class="code" href="struct_f_skill_effect.html">FSkillEffect</a> SkillEffect);</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> ProcessMove(<a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>* TargetSlot, <a class="code" href="_c_p_p_f_l___skill_struct_library_8h.html#a063d1a71c6a8335cd6cd853898f0a6ee">EPosition</a> MovePosition);</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> ProcessRemoveAllState(<a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>* TargetSlot);</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="keyword">public</span>:</div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;    UFUNCTION(BlueprintCallable, Category = <span class="stringliteral">&quot;SkillEffectProcess Function&quot;</span>)</div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;        <span class="keyword">static</span> <span class="keywordtype">void</span> ProcessSkillEffect(<a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>* FromSlot, <a class="code" href="class_a_c_p_p___slot.html">ACPP_Slot</a>* TargetSlot, <a class="code" href="struct_f_skill_effect.html">FSkillEffect</a> SkillEffect);</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;};</div><div class="ttc" id="class_a_c_p_p___slot_html"><div class="ttname"><a href="class_a_c_p_p___slot.html">ACPP_Slot</a></div><div class="ttdoc">전투시에 사용되는 슬롯. </div><div class="ttdef"><b>Definition:</b> CPP_Slot.h:45</div></div>
+<div class="ttc" id="class_u_c_p_p_f_l___skill_effect_process_manager_html"><div class="ttname"><a href="class_u_c_p_p_f_l___skill_effect_process_manager.html">UCPPFL_SkillEffectProcessManager</a></div><div class="ttdef"><b>Definition:</b> CPPFL_SkillEffectProcessManager.h:16</div></div>
+<div class="ttc" id="_c_p_p_f_l___skill_struct_library_8h_html_a063d1a71c6a8335cd6cd853898f0a6ee"><div class="ttname"><a href="_c_p_p_f_l___skill_struct_library_8h.html#a063d1a71c6a8335cd6cd853898f0a6ee">EPosition</a></div><div class="ttdeci">EPosition</div><div class="ttdef"><b>Definition:</b> CPPFL_SkillStructLibrary.h:35</div></div>
+<div class="ttc" id="_c_p_p_f_l___skill_struct_library_8h_html"><div class="ttname"><a href="_c_p_p_f_l___skill_struct_library_8h.html">CPPFL_SkillStructLibrary.h</a></div></div>
+<div class="ttc" id="struct_f_skill_effect_html"><div class="ttname"><a href="struct_f_skill_effect.html">FSkillEffect</a></div><div class="ttdef"><b>Definition:</b> CPPFL_SkillStructLibrary.h:371</div></div>
+<div class="ttc" id="_c_p_p_f_l___equipment_struct_library_8h_html_a7a81d964fc1df299b0d7bda78d637f0b"><div class="ttname"><a href="_c_p_p_f_l___equipment_struct_library_8h.html#a7a81d964fc1df299b0d7bda78d637f0b">EAtkType</a></div><div class="ttdeci">EAtkType</div><div class="ttdef"><b>Definition:</b> CPPFL_EquipmentStructLibrary.h:23</div></div>
+</div><!-- fragment --></div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+다음에 의해 생성됨 :  &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

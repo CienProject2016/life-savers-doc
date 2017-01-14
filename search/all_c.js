@@ -4,6 +4,6 @@ var searchData=
   ['neededlevel',['NeededLevel',['../struct_f_research_tree_node.html#ac6a40f7adfd0aa4f7c5a7e420f8ebc84',1,'FResearchTreeNode']]],
   ['nonbulletattackactorparticlecomponent',['NonBulletAttackActorParticleComponent',['../class_a_c_p_p___slot.html#a448fcfe29c250b519f79808f4feac23f',1,'ACPP_Slot']]],
   ['note',['Note',['../struct_f_armor.html#abaf8c896777435df153bd79dee70b737',1,'FArmor::Note()'],['../struct_f_gloves.html#afa3edfcee0bda405c2c8631dcfa251ac',1,'FGloves::Note()'],['../struct_f_weapon.html#a7d55543600849459b2314d9f2a8d6105',1,'FWeapon::Note()']]],
-  ['num',['Num',['../class_u_m___attack_actor_group.html#a4d6e1b83d2f132cbf2cc5d41812268ac',1,'UM_AttackActorGroup']]],
+  ['num',['Num',['../class_u_m___attack_actor_group.html#a4d6e1b83d2f132cbf2cc5d41812268ac',1,'UM_AttackActorGroup::Num()'],['../class_u_m___hajin_attack_actor_group.html#a341781b280074875e7e09fd8892a32ea',1,'UM_HajinAttackActorGroup::Num()']]],
   ['number',['Number',['../struct_f_condition_set.html#a259fabf10d9e6bbcb527c50f92c0a776',1,'FConditionSet::Number()'],['../struct_f_zodiac.html#a023f21c7235fbcf2a010cec5e263aa0e',1,'FZodiac::Number()'],['../struct_f_zodiac_to_number.html#adabd3aeba19fb7a990914678352d0086',1,'FZodiacToNumber::Number()'],['../struct_f_moon_data.html#aec30a3ea2e2a1617368a32b4a34cd119',1,'FMoonData::Number()']]]
 ];

@@ -1,9 +1,11 @@
 var searchData=
 [
+  ['setactoractive',['SetActorActive',['../class_u_c_p_p___attack_actor_manager.html#a5e82363ec649740fbcd94b178b7a41f3',1,'UCPP_AttackActorManager']]],
   ['setactormaterial',['SetActorMaterial',['../class_a_c_p_p___attack_actor.html#a72dda32d484ecf475a96cb602c5cdaed',1,'ACPP_AttackActor']]],
   ['setautoskillpanelvisibility',['SetAutoSkillPanelVisibility',['../class_a_c_p_p___slot.html#ae6f8d16d1f7e007a41dc07a4e0c0546e',1,'ACPP_Slot']]],
   ['setautoskillprogressbarvalue',['SetAutoSkillProgressBarValue',['../class_a_c_p_p___slot.html#a4e9182c42b7528a4351140a86ac0dbed',1,'ACPP_Slot']]],
   ['setbattleformation',['SetBattleFormation',['../class_u_c_p_p_f_l___ai_manager.html#a9417dd9681f8e5575023b811cdf799b9',1,'UCPPFL_AiManager']]],
+  ['setbulletparticletemplate',['SetBulletParticleTemplate',['../class_a_c_p_p___hajin_attack_actor.html#aedfb755eb7313ba40e31ac7ac2d54077',1,'ACPP_HajinAttackActor']]],
   ['setcharacterspriteposition',['SetCharacterSpritePosition',['../class_a_c_p_p___slot.html#a0a7e4eec4d44842f75444912ef0ad57c',1,'ACPP_Slot']]],
   ['setcharactervisibility',['SetCharacterVisibility',['../class_a_c_p_p___slot.html#a822e30fcd52b33eaacb2be5fc9001dd9',1,'ACPP_Slot']]],
   ['setdefaultslotdatausingcharacter',['SetDefaultSlotDataUsingCharacter',['../class_a_c_p_p___slot.html#ac3604808a982f42a3795bdd2de37e57f',1,'ACPP_Slot']]],
@@ -24,7 +26,7 @@ var searchData=
   ['setupbinaries',['SetupBinaries',['../class_life_savers_target.html#a34b97628a7131ae838af88b0152a82ae',1,'LifeSaversTarget.SetupBinaries()'],['../class_life_savers_editor_target.html#ac02addfed2ac3ebbd0ce54b365380deb',1,'LifeSaversEditorTarget.SetupBinaries()']]],
   ['setupbuffproperty',['SetUpBuffProperty',['../class_a_c_p_p___buff_actor.html#a394492e3f16dbae64668a50d3366b50a',1,'ACPP_BuffActor']]],
   ['setweaponrequirement',['SetWeaponRequirement',['../class_a_c_p_p___slot.html#addf795dbe16ee0ce2f631b2825cba213',1,'ACPP_Slot']]],
-  ['setweaponrequirementproperty',['SetWeaponRequirementProperty',['../class_a_c_p_p___attack_actor.html#a4f891eb45a4345607341ca6b0dc56647',1,'ACPP_AttackActor']]],
+  ['setweaponrequirementproperty',['SetWeaponRequirementProperty',['../class_a_c_p_p___attack_actor.html#a4f891eb45a4345607341ca6b0dc56647',1,'ACPP_AttackActor::SetWeaponRequirementProperty()'],['../class_a_c_p_p___hajin_attack_actor.html#a284d9e0e4d0facac2dd0f5f6f89ef574',1,'ACPP_HajinAttackActor::SetWeaponRequirementProperty()']]],
   ['setwedgeformation',['SetWedgeFormation',['../class_u_c_p_p_f_l___ai_manager.html#aa5e6f7e0ae8d5ed2cda0e50695ad5834',1,'UCPPFL_AiManager']]],
   ['showshottailparticle',['ShowShotTailParticle',['../class_u_c_p_p_f_l___particle_manager.html#a033fd037994ae47bcf17a5e607708532',1,'UCPPFL_ParticleManager']]],
   ['showskillcutin',['ShowSkillCutIn',['../class_u_c_p_p_f_l___particle_manager.html#a4cdcc7c8555798aa0d3f0f71f8d973ba',1,'UCPPFL_ParticleManager']]],
@@ -33,6 +35,7 @@ var searchData=
   ['spawnnonprojectileattackactor_5fimplementation',['SpawnNonProjectileAttackActor_Implementation',['../class_a_c_p_p___slot.html#ae688d96525a7c1fd4dcff135b5bed703',1,'ACPP_Slot']]],
   ['spawnprojectileattackactor',['SpawnProjectileAttackActor',['../class_a_c_p_p___slot.html#adee46da2a1d8890fed36e1a648418d77',1,'ACPP_Slot']]],
   ['spawnprojectileattackactor_5fimplementation',['SpawnProjectileAttackActor_Implementation',['../class_a_c_p_p___slot.html#a886fa11fa518ce33eeb6bbb68b3558b0',1,'ACPP_Slot']]],
+  ['start',['Start',['../class_a_c_p_p___hajin_attack_actor.html#ada8f91251a1713e86bed74077ae08148',1,'ACPP_HajinAttackActor']]],
   ['startattack',['StartAttack',['../class_a_c_p_p___slot.html#ac0ffd6469819887beb4291543f1cf248',1,'ACPP_Slot']]],
   ['startnewprogress',['StartNewProgress',['../class_a_c_p_p___slot.html#ae38942a7de8706342889d6fa84f6f964',1,'ACPP_Slot']]],
   ['startnewskillprogress',['StartNewSkillProgress',['../class_a_c_p_p___slot.html#a9f9980afdea94725d3a7e866d9870506',1,'ACPP_Slot']]],

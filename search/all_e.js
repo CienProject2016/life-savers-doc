@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['parent',['Parent',['../class_a_c_p_p___attack_actor.html#a3b99908a7bc0b85af1401b6b412e1119',1,'ACPP_AttackActor']]],
+  ['parent',['Parent',['../class_a_c_p_p___attack_actor.html#a3b99908a7bc0b85af1401b6b412e1119',1,'ACPP_AttackActor::Parent()'],['../class_a_c_p_p___buff_actor.html#adcc9956788041d557e37d77fd676fad1',1,'ACPP_BuffActor::Parent()']]],
   ['particle',['Particle',['../struct_f_weapon.html#a7121cc03851b6f2395d7a42f2937b212',1,'FWeapon']]],
   ['phase',['Phase',['../struct_f_card_data.html#a77de168ab927a5c53794fdebf2738bae',1,'FCardData']]],
   ['pierce',['Pierce',['../class_u_m___unit_state.html#a9cab11555e4bd255c7234a8f791d39c2',1,'UM_UnitState::Pierce()'],['../struct_f_weapon.html#adf645bffc014ef30ba9558c3a66af5bb',1,'FWeapon::Pierce()']]],
@@ -14,6 +14,13 @@ var searchData=
   ['prevlocation',['PrevLocation',['../class_a_c_p_p___slot.html#a35a5057af7ed082a52d4c7ff0c4b5830',1,'ACPP_Slot']]],
   ['printlog',['PrintLog',['../_life_savers_8h.html#a829a175e4e3dec9bab626546499da745',1,'LifeSavers.h']]],
   ['printwarninglog',['PrintWarningLog',['../_c_p_p___game_instance_8cpp.html#a6870d452cc2908db247cca00c40cb6eb',1,'LifeSavers.h']]],
+  ['processaddbuff',['ProcessAddBuff',['../class_u_c_p_p_f_l___skill_effect_process_manager.html#aef6dfaf5dfa60f5876fcac1ce7e6414e',1,'UCPPFL_SkillEffectProcessManager']]],
+  ['processattack',['ProcessAttack',['../class_u_c_p_p_f_l___skill_effect_process_manager.html#a04590b1f9cc04396ca5a5ada901bca4e',1,'UCPPFL_SkillEffectProcessManager']]],
+  ['processhpheal',['ProcessHpHeal',['../class_u_c_p_p_f_l___skill_effect_process_manager.html#af2361b96f27a8b15129ea66bf9c449c4',1,'UCPPFL_SkillEffectProcessManager']]],
+  ['processmove',['ProcessMove',['../class_u_c_p_p_f_l___skill_effect_process_manager.html#a62608adb3a88624b049433e6e11bfba7',1,'UCPPFL_SkillEffectProcessManager']]],
+  ['processremoveallstate',['ProcessRemoveAllState',['../class_u_c_p_p_f_l___skill_effect_process_manager.html#a9036c6a7a2f4d4b3d52d233287e17d7b',1,'UCPPFL_SkillEffectProcessManager']]],
+  ['processshieldheal',['ProcessShieldHeal',['../class_u_c_p_p_f_l___skill_effect_process_manager.html#aa3c3cd6a9bed366c8841ca0c81d36212',1,'UCPPFL_SkillEffectProcessManager']]],
+  ['processskilleffect',['ProcessSkillEffect',['../class_u_c_p_p_f_l___skill_effect_process_manager.html#afe283bece76ef34a20bfc30d3e0e7583',1,'UCPPFL_SkillEffectProcessManager']]],
   ['progressbar',['ProgressBar',['../class_a_c_p_p___slot.html#a5e6456bd090ee931f8b5198501e6dabe',1,'ACPP_Slot']]],
   ['progresslength',['ProgressLength',['../class_a_c_p_p___slot.html#aaa07142052091e50af95c245af37ca90',1,'ACPP_Slot']]]
 ];

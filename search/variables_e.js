@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['parent',['Parent',['../class_a_c_p_p___attack_actor.html#a3b99908a7bc0b85af1401b6b412e1119',1,'ACPP_AttackActor']]],
+  ['parent',['Parent',['../class_a_c_p_p___attack_actor.html#a3b99908a7bc0b85af1401b6b412e1119',1,'ACPP_AttackActor::Parent()'],['../class_a_c_p_p___buff_actor.html#adcc9956788041d557e37d77fd676fad1',1,'ACPP_BuffActor::Parent()']]],
   ['particle',['Particle',['../struct_f_weapon.html#a7121cc03851b6f2395d7a42f2937b212',1,'FWeapon']]],
   ['phase',['Phase',['../struct_f_card_data.html#a77de168ab927a5c53794fdebf2738bae',1,'FCardData']]],
   ['pierce',['Pierce',['../class_u_m___unit_state.html#a9cab11555e4bd255c7234a8f791d39c2',1,'UM_UnitState::Pierce()'],['../struct_f_weapon.html#adf645bffc014ef30ba9558c3a66af5bb',1,'FWeapon::Pierce()']]],
